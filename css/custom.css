@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css?family=Abel|Abril+Fatface|Montserrat|Nunito+Sans');
+
+.jumbotron .main {
+  color: green;
+  font-family: 'Montserrat';
+  font-size: 15rem;
+  text-align: center;
+}
+
+ .lead {
+  font-family: 'Abril Fatface';
+  font-size: 45px;
+  text-align: center;
+}
+
+.bottom {
+  font-family: 'Abel';
+  text-align: center;
+  font-size: 6em;
+  color: blue;
+}
+
+.jumbobutton {
+  font-size: 30px;
+}
